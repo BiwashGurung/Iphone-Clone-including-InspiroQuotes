@@ -14,13 +14,12 @@
 
 body {
     display: flex;
-    transition: .8s;
-    overflow: hidden;
+  
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    font-family: 'Poppins';
-    background-image: linear-gradient(to right, grey, black);
+
+    background-image:url("https://i.pinimg.com/originals/22/df/03/22df0390c03d80cab2be412dcbd93b75.jpg");
 }
 
 
