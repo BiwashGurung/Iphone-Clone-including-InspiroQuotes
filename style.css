@@ -110,61 +110,14 @@ body {
     position: relative;
     height: 500px;
     width: 100%;
-    background-image: linear-gradient(black, blue);
+    background-image: url('https://e0.pxfuel.com/wallpapers/743/1016/desktop-wallpaper-iphone-13-pro-max-spiderman-remastered-update-best-iphone-and-iphone-background-update-best-iphone-and-iphone-background-iphone-13-pro.jpg'); 
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat; 
 }
 
-.app-container .bg-img .bg-frame::before {
-    content: '';
-    position: absolute;
-    right: 350px;
-    top: 200px;
-    height: 570px;
-    width: 570px;
-    z-index: 1;
-    border-radius: 50%;
-    box-shadow: 40px 60px 40px 0px #091933;
-}
 
-.app-container .bg-img .bg-frame:after {
-    content: '';
-    position: absolute;
-    right: 330px;
-    top: 200px;
-    height: 570px;
-    width: 570px;
-    border-radius: 50%;
-    background-image: linear-gradient(black, blue);
-}
 
-.app-container .bg-img .bg-frame .extra {
-    position: absolute;
-    right: 0;
-    bottom: 0;
-    width: 70px;
-    background-color: #ac2e2a;
-}
-
-.app-container .bg-img .bg-frame .extra::before {
-    content: '';
-    position: absolute;
-    left: -20px;
-    top: 55px;
-    height: 20px;
-    width: 20px;
-    border-top-right-radius: 10px;
-    background-color: #091a3502;
-    box-shadow: 0px -10px 0px 0px #ac2e2a;
-}
-
-.extra_2 {
-    position: absolute;
-    bottom: 0;
-    z-index: 1;
-    right: 0;
-    width: 100%;
-    height: 190px;
-    background-image: linear-gradient(to top, red 10%, transparent);
-}
 
 .nav {
     position: absolute;
