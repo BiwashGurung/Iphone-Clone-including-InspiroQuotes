@@ -20,9 +20,6 @@ body {
     background-image:url("https://i.pinimg.com/originals/22/df/03/22df0390c03d80cab2be412dcbd93b75.jpg");
 }
 
-
-
-
 .iphone-frame {
     background-color: #000;
     height: 500px;
@@ -111,9 +108,6 @@ body {
     background-position: center; 
     background-repeat: no-repeat; 
 }
-
-
-
 
 .nav {
     position: absolute;
@@ -484,4 +478,9 @@ body {
 .facetime {
     background-color: #65ec43;
     color: #fff;
+}
+
+.heart-circle {
+    background-color:#ffffff;
+    color:  rgb(255, 0, 0);
 }
